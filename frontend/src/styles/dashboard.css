@@ -1,17 +1,4 @@
-/* src/styles/Header.css */
-.app-header {
-  background: #153D64;
-  padding: 0 24px;
-}
-
-.app-header-title  {
-  color: white !important;
-  margin: 0;
-  line-height: 64px;
-  margin-top: 10px !important;
- 
-}
-/* src/styles/Footer.css */
+/styles/Footer.css */
 .app-footer {
   text-align: center;
   background: #BEC9D4;
