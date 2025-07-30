@@ -1,0 +1,77 @@
+/* src/styles/Header.css */
+.app-header {
+  background: #153D64;
+  padding: 0 24px;
+}
+
+.app-header-title  {
+  color: white !important;
+  margin: 0;
+  line-height: 64px;
+  margin-top: 10px !important;
+ 
+}
+/* src/styles/Footer.css */
+.app-footer {
+  text-align: center;
+  background: #BEC9D4;
+  color: #888;
+  background: #153D64;
+  
+}
+/* src/styles/Dashboard.css */
+
+.layout {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.content {
+  flex: 1;
+  padding: 24px 12px;
+ /* display: flex; */
+  flex-direction: column;
+  gap: 24px;
+}
+
+.section {
+  margin-bottom: 0;
+}
+
+.add-button-container {
+  text-align: right;
+}
+
+.card {
+  background-color: white;
+  border-radius: 12px;
+  padding: 24px;
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.05);
+}
+.filter-bar {
+  display: flex;
+  gap: 1rem;
+  margin-bottom: 1rem;
+}
+
+/* src/styles/Dashboard.css */
+
+.layout {
+  min-height: 100vh;
+  overflow: hidden; /* Prevent vertical scroll */
+  background-image: url('../assets/Wave@1x-10.0s-1920px-953px.svg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+}
+
+.content {
+  padding: 24px;
+  padding-bottom: 80px; /* to avoid content under fixed footer */
+}
+
+.content {
+  max-height: calc(100vh - 64px - 64px); /* subtract header + footer height */
+  overflow-y: auto;
+}

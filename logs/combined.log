@@ -1,0 +1,233 @@
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-07-28T17:24:23.609Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-07-28T17:26:29.869Z"}
+{"level":"info","message":"MongoDB Connected: ac-bihmudd-shard-00-02.ds36kym.mongodb.net","timestamp":"2025-07-28T17:26:31.143Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-07-28T17:26:48.711Z"}
+{"level":"info","message":"MongoDB Connected: ac-bihmudd-shard-00-01.ds36kym.mongodb.net","timestamp":"2025-07-28T17:26:50.241Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-07-28T17:27:23.636Z"}
+{"level":"info","message":"MongoDB Connected: ac-bihmudd-shard-00-02.ds36kym.mongodb.net","timestamp":"2025-07-28T17:27:24.990Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-07-28T17:33:07.376Z"}
+{"level":"info","message":"MongoDB Connected: ac-bihmudd-shard-00-02.ds36kym.mongodb.net","timestamp":"2025-07-28T17:33:09.145Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-07-28T17:34:06.498Z"}
+{"level":"info","message":"MongoDB Connected: ac-bihmudd-shard-00-01.ds36kym.mongodb.net","timestamp":"2025-07-28T17:34:08.211Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-07-28T17:34:48.493Z"}
+{"level":"info","message":"MongoDB Connected: ac-bihmudd-shard-00-02.ds36kym.mongodb.net","timestamp":"2025-07-28T17:34:49.831Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-07-28T17:35:53.704Z"}
+{"level":"info","message":"MongoDB Connected: ac-bihmudd-shard-00-00.ds36kym.mongodb.net","timestamp":"2025-07-28T17:35:55.080Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-07-28T17:41:40.692Z"}
+{"level":"info","message":"MongoDB Connected: ac-bihmudd-shard-00-01.ds36kym.mongodb.net","timestamp":"2025-07-28T17:41:42.245Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-07-28T17:44:30.154Z"}
+{"level":"info","message":"MongoDB Connected: ac-bihmudd-shard-00-00.ds36kym.mongodb.net","timestamp":"2025-07-28T17:44:31.721Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-07-28T17:45:15.618Z"}
+{"level":"info","message":"MongoDB Connected: ac-bihmudd-shard-00-02.ds36kym.mongodb.net","timestamp":"2025-07-28T17:45:17.230Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-07-28T17:45:23.104Z"}
+{"level":"info","message":"MongoDB Connected: ac-bihmudd-shard-00-00.ds36kym.mongodb.net","timestamp":"2025-07-28T17:45:24.480Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-07-28T17:47:01.412Z"}
+{"level":"info","message":"MongoDB Connected: ac-bihmudd-shard-00-01.ds36kym.mongodb.net","timestamp":"2025-07-28T17:47:03.026Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-07-28T17:47:30.446Z"}
+{"level":"info","message":"MongoDB Connected: ac-bihmudd-shard-00-02.ds36kym.mongodb.net","timestamp":"2025-07-28T17:47:31.877Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-07-28T17:48:22.932Z"}
+{"level":"info","message":"MongoDB Connected: ac-bihmudd-shard-00-01.ds36kym.mongodb.net","timestamp":"2025-07-28T17:48:24.305Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-07-28T17:49:46.962Z"}
+{"level":"info","message":"MongoDB Connected: ac-bihmudd-shard-00-01.ds36kym.mongodb.net","timestamp":"2025-07-28T17:49:48.707Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-07-28T17:50:53.079Z"}
+{"level":"info","message":"MongoDB Connected: ac-bihmudd-shard-00-01.ds36kym.mongodb.net","timestamp":"2025-07-28T17:50:54.471Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-07-28T17:51:59.751Z"}
+{"level":"info","message":"MongoDB Connected: ac-bihmudd-shard-00-02.ds36kym.mongodb.net","timestamp":"2025-07-28T17:52:01.103Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-07-28T17:52:26.091Z"}
+{"level":"info","message":"MongoDB Connected: ac-bihmudd-shard-00-02.ds36kym.mongodb.net","timestamp":"2025-07-28T17:52:27.567Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-07-28T17:54:53.723Z"}
+{"level":"info","message":"MongoDB Connected: ac-bihmudd-shard-00-00.ds36kym.mongodb.net","timestamp":"2025-07-28T17:54:55.106Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-07-28T17:55:33.986Z"}
+{"level":"info","message":"MongoDB Connected: ac-bihmudd-shard-00-00.ds36kym.mongodb.net","timestamp":"2025-07-28T17:55:35.361Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-07-28T17:57:18.981Z"}
+{"level":"info","message":"MongoDB Connected: ac-bihmudd-shard-00-00.ds36kym.mongodb.net","timestamp":"2025-07-28T17:57:20.480Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-07-28T17:58:04.249Z"}
+{"level":"info","message":"MongoDB Connected: ac-bihmudd-shard-00-02.ds36kym.mongodb.net","timestamp":"2025-07-28T17:58:05.569Z"}
+{"completed":false,"description":"pulao in making","level":"info","message":"Todo created","timestamp":"2025-07-28T18:00:33.422Z","title":"Cooking"}
+{"completed":false,"description":"","level":"info","message":"Todo created","timestamp":"2025-07-28T18:01:09.445Z","title":"Cleaning"}
+{"level":"info","message":"Todo created","timestamp":"2025-07-28T18:02:01.716Z","title":"Cleaning"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-07-28T19:53:21.434Z"}
+{"level":"info","message":"MongoDB Connected: ac-bihmudd-shard-00-01.ds36kym.mongodb.net","timestamp":"2025-07-28T19:53:23.378Z"}
+{"level":"info","message":"PUT /api/products/6887bae591cccd95dd0034de","timestamp":"2025-07-28T19:55:22.739Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-07-28T19:55:48.650Z"}
+{"level":"info","message":"MongoDB Connected: ac-bihmudd-shard-00-01.ds36kym.mongodb.net","timestamp":"2025-07-28T19:55:50.227Z"}
+{"level":"info","message":"PUT /api/products/6887bae591cccd95dd0034de","timestamp":"2025-07-28T19:55:54.049Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-07-28T19:57:05.401Z"}
+{"level":"info","message":"MongoDB Connected: ac-bihmudd-shard-00-01.ds36kym.mongodb.net","timestamp":"2025-07-28T19:57:07.066Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-07-28T19:57:16.289Z"}
+{"level":"info","message":"PUT /api/products/6887bae591cccd95dd0034de","timestamp":"2025-07-28T19:57:17.079Z"}
+{"level":"info","message":"MongoDB Connected: ac-bihmudd-shard-00-02.ds36kym.mongodb.net","timestamp":"2025-07-28T19:57:17.842Z"}
+{"level":"info","message":"PUT /api/products/6887bae591cccd95d","timestamp":"2025-07-28T19:57:50.881Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-07-28T19:58:22.739Z"}
+{"level":"info","message":"MongoDB Connected: ac-bihmudd-shard-00-02.ds36kym.mongodb.net","timestamp":"2025-07-28T19:58:24.375Z"}
+{"level":"info","message":"PUT /api/products/6887bae591cccd95d","timestamp":"2025-07-28T19:58:29.083Z"}
+{"image":"https://www.google.com/imges","level":"info","message":"Todo updated","name":"Headphones wireless","price":130.56,"timestamp":"2025-07-28T19:59:01.387Z"}
+{"image":"https://www.google.com/imges","level":"info","message":"Todo updated","name":"Headphones wireless","price":130.56,"timestamp":"2025-07-28T19:59:18.693Z"}
+{"completed":false,"description":" Dry","level":"info","message":"Todo updated","timestamp":"2025-07-28T20:00:03.577Z","title":"Cleaning"}
+{"completed":false,"description":" Dry","level":"info","message":"Todo updated","timestamp":"2025-07-28T20:00:44.413Z","title":""}
+{"completed":false,"description":" Dry","level":"info","message":"Todo updated","timestamp":"2025-07-28T20:00:50.021Z"}
+{"completed":false,"description":" Dry","level":"info","message":"Todo updated","timestamp":"2025-07-28T20:00:55.339Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-07-28T20:02:06.931Z"}
+{"level":"info","message":"MongoDB Connected: ac-bihmudd-shard-00-02.ds36kym.mongodb.net","timestamp":"2025-07-28T20:02:09.632Z"}
+{"completed":false,"description":" Dry","level":"info","message":"Todo updated","timestamp":"2025-07-28T20:02:39.837Z","title":"Dry Cleaning"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-07-28T20:03:37.102Z"}
+{"level":"info","message":"MongoDB Connected: ac-bihmudd-shard-00-00.ds36kym.mongodb.net","timestamp":"2025-07-28T20:03:38.836Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-07-28T20:05:03.044Z"}
+{"level":"info","message":"MongoDB Connected: ac-bihmudd-shard-00-01.ds36kym.mongodb.net","timestamp":"2025-07-28T20:05:04.400Z"}
+{"level":"info","message":"POST /api/products","timestamp":"2025-07-28T20:05:51.869Z"}
+{"level":"info","message":"POST /api/todo/6887bae591cccd95dd0034de","timestamp":"2025-07-28T20:06:12.661Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-07-28T20:07:33.934Z"}
+{"level":"info","message":"MongoDB Connected: ac-bihmudd-shard-00-02.ds36kym.mongodb.net","timestamp":"2025-07-28T20:07:35.706Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-07-28T20:08:06.050Z"}
+{"level":"info","message":"MongoDB Connected: ac-bihmudd-shard-00-02.ds36kym.mongodb.net","timestamp":"2025-07-28T20:08:07.601Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-07-28T20:11:08.422Z"}
+{"level":"info","message":"MongoDB Connected: ac-bihmudd-shard-00-01.ds36kym.mongodb.net","timestamp":"2025-07-28T20:11:09.831Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-07-28T20:13:51.978Z"}
+{"level":"info","message":"MongoDB Connected: ac-bihmudd-shard-00-01.ds36kym.mongodb.net","timestamp":"2025-07-28T20:13:53.427Z"}
+{"level":"info","message":"Todo Deleted!","timestamp":"2025-07-28T20:14:00.677Z"}
+{"level":"info","message":"Todo Deleted!","timestamp":"2025-07-28T20:14:54.555Z"}
+{"level":"info","message":"Todo Deleted!","timestamp":"2025-07-28T20:15:04.835Z"}
+{"level":"info","message":"Todo Deletion Failed!","timestamp":"2025-07-28T20:15:32.536Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-07-28T20:17:05.352Z"}
+{"level":"info","message":"MongoDB Connected: ac-bihmudd-shard-00-00.ds36kym.mongodb.net","timestamp":"2025-07-28T20:17:06.892Z"}
+{"level":"info","message":"Todo Deletion Failed!","timestamp":"2025-07-28T20:17:12.756Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-07-28T20:18:16.875Z"}
+{"level":"info","message":"MongoDB Connected: ac-bihmudd-shard-00-02.ds36kym.mongodb.net","timestamp":"2025-07-28T20:18:18.894Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-07-28T20:18:21.295Z"}
+{"level":"info","message":"MongoDB Connected: ac-bihmudd-shard-00-01.ds36kym.mongodb.net","timestamp":"2025-07-28T20:18:23.002Z"}
+{"level":"info","message":"Todo Deletion Failed, Invalid ID","timestamp":"2025-07-28T20:18:27.744Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-07-28T20:22:32.155Z"}
+{"level":"info","message":"MongoDB Connected: ac-bihmudd-shard-00-00.ds36kym.mongodb.net","timestamp":"2025-07-28T20:22:33.540Z"}
+{"level":"info","message":"Todo Deletion Failed: Invalid ID","timestamp":"2025-07-28T20:22:34.329Z"}
+{"level":"info","message":"Todo Deleted: 6887bac191cccd95dd0034dc","timestamp":"2025-07-28T20:23:08.559Z"}
+{"completed":false,"description":"Mutton Pulao on the menu ","level":"info","message":"Todo created","timestamp":"2025-07-28T20:24:10.607Z","title":"Cooking"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-07-28T20:25:17.779Z"}
+{"level":"info","message":"MongoDB Connected: ac-bihmudd-shard-00-00.ds36kym.mongodb.net","timestamp":"2025-07-28T20:25:19.430Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-07-28T20:28:42.772Z"}
+{"level":"info","message":"MongoDB Connected: ac-bihmudd-shard-00-00.ds36kym.mongodb.net","timestamp":"2025-07-28T20:28:44.228Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-07-28T20:31:39.174Z"}
+{"level":"info","message":"MongoDB Connected: ac-bihmudd-shard-00-00.ds36kym.mongodb.net","timestamp":"2025-07-28T20:31:41.056Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-07-28T20:33:33.904Z"}
+{"level":"info","message":"MongoDB Connected: ac-bihmudd-shard-00-01.ds36kym.mongodb.net","timestamp":"2025-07-28T20:33:35.452Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-07-28T20:34:06.286Z"}
+{"level":"info","message":"MongoDB Connected: ac-bihmudd-shard-00-01.ds36kym.mongodb.net","timestamp":"2025-07-28T20:34:07.986Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-07-28T21:16:12.183Z"}
+{"level":"info","message":"MongoDB Connected: ac-bihmudd-shard-00-02.ds36kym.mongodb.net","timestamp":"2025-07-28T21:16:14.050Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-07-28T21:16:37.931Z"}
+{"level":"info","message":"MongoDB Connected: ac-bihmudd-shard-00-02.ds36kym.mongodb.net","timestamp":"2025-07-28T21:16:39.674Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-07-28T21:16:53.509Z"}
+{"level":"info","message":"MongoDB Connected: ac-bihmudd-shard-00-01.ds36kym.mongodb.net","timestamp":"2025-07-28T21:16:54.780Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-07-28T21:17:18.169Z"}
+{"level":"info","message":"MongoDB Connected: ac-bihmudd-shard-00-02.ds36kym.mongodb.net","timestamp":"2025-07-28T21:17:19.561Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-07-28T21:18:51.028Z"}
+{"level":"info","message":"MongoDB Connected: ac-bihmudd-shard-00-00.ds36kym.mongodb.net","timestamp":"2025-07-28T21:18:52.435Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-07-28T21:49:12.008Z"}
+{"level":"info","message":"MongoDB Connected: ac-bihmudd-shard-00-00.ds36kym.mongodb.net","timestamp":"2025-07-28T21:49:13.472Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-07-28T21:49:55.189Z"}
+{"level":"info","message":"MongoDB Connected: ac-bihmudd-shard-00-02.ds36kym.mongodb.net","timestamp":"2025-07-28T21:49:56.541Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-07-28T21:50:30.606Z"}
+{"level":"info","message":"MongoDB Connected: ac-bihmudd-shard-00-00.ds36kym.mongodb.net","timestamp":"2025-07-28T21:50:31.993Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-07-28T21:51:30.820Z"}
+{"level":"info","message":"MongoDB Connected: ac-bihmudd-shard-00-01.ds36kym.mongodb.net","timestamp":"2025-07-28T21:51:32.142Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-07-28T23:51:09.226Z"}
+{"level":"info","message":"MongoDB Connected: ac-bihmudd-shard-00-01.ds36kym.mongodb.net","timestamp":"2025-07-28T23:51:10.658Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-07-29T18:28:34.370Z"}
+{"level":"info","message":"MongoDB Connected: ac-bihmudd-shard-00-02.ds36kym.mongodb.net","timestamp":"2025-07-29T18:28:35.600Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-07-29T18:32:28.017Z"}
+{"level":"info","message":"MongoDB Connected: ac-bihmudd-shard-00-02.ds36kym.mongodb.net","timestamp":"2025-07-29T18:32:29.276Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-07-29T18:40:14.992Z"}
+{"level":"info","message":"MongoDB Connected: ac-bihmudd-shard-00-02.ds36kym.mongodb.net","timestamp":"2025-07-29T18:40:16.186Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-07-29T18:44:32.735Z"}
+{"level":"info","message":"MongoDB Connected: ac-bihmudd-shard-00-00.ds36kym.mongodb.net","timestamp":"2025-07-29T18:44:33.979Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-07-29T18:46:01.973Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-07-29T18:46:09.829Z"}
+{"level":"info","message":"MongoDB Connected: ac-bihmudd-shard-00-00.ds36kym.mongodb.net","timestamp":"2025-07-29T18:46:11.202Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-07-29T18:51:04.155Z"}
+{"level":"info","message":"MongoDB Connected: ac-bihmudd-shard-00-01.ds36kym.mongodb.net","timestamp":"2025-07-29T18:51:05.422Z"}
+{"level":"info","message":"Todo Update Failed: Validation problems","timestamp":"2025-07-29T20:33:38.905Z"}
+{"level":"info","message":"Todo created","timestamp":"2025-07-29T20:58:37.690Z","todo":{"__v":0,"_id":"688935fda967510595c72af0","completed":true,"createdAt":"2025-07-29T20:58:37.544Z","description":"wejwlrj","title":"Test","updatedAt":"2025-07-29T20:58:37.544Z"}}
+{"level":"info","message":"Todo Update Failed: Validation problems","timestamp":"2025-07-29T20:59:21.019Z"}
+{"level":"info","message":"Todo Update Failed: Validation problems","timestamp":"2025-07-29T20:59:33.185Z"}
+{"level":"info","message":"GET /api/todo/6887bae591cccd95dd0034de","timestamp":"2025-07-29T20:59:50.365Z"}
+{"level":"info","message":"Todo Update Failed: Validation problems","timestamp":"2025-07-29T21:01:36.530Z"}
+{"level":"info","message":"Todo Update Failed: Validation problems","timestamp":"2025-07-29T21:02:56.662Z"}
+{"level":"info","message":"GET /api/todo/6887bae591cccd95dd0034de","timestamp":"2025-07-29T21:03:33.933Z"}
+{"level":"info","message":"Todo Update Failed: Validation problems","timestamp":"2025-07-29T21:04:18.718Z"}
+{"level":"info","message":"Todo Update Failed: Validation problems","timestamp":"2025-07-29T21:05:16.134Z"}
+{"level":"info","message":"Todo Update Failed: Validation problems","timestamp":"2025-07-29T21:05:23.923Z"}
+{"level":"info","message":"Todo Update Failed: Validation problems","timestamp":"2025-07-29T21:10:02.680Z"}
+{"level":"info","message":"Todo Update Failed: Validation problems","timestamp":"2025-07-29T21:15:23.286Z"}
+{"level":"info","message":"Todo Update Failed: Validation problems","timestamp":"2025-07-29T21:17:19.666Z"}
+{"level":"info","message":"Todo Update Failed: Validation problems","timestamp":"2025-07-29T21:22:52.188Z"}
+{"level":"info","message":"Todo Update Failed: Validation problems","timestamp":"2025-07-29T21:29:24.046Z"}
+{"completed":true,"description":" Dry","level":"info","message":"Todo updated","timestamp":"2025-07-29T21:32:37.659Z","title":"Dry"}
+{"level":"info","message":"Todo Update Failed: Validation problems","timestamp":"2025-07-29T21:33:01.378Z"}
+{"level":"info","message":"Todo Update Failed: Validation problems","timestamp":"2025-07-29T21:33:44.738Z"}
+{"completed":true,"description":" Dry","level":"info","message":"Todo updated","timestamp":"2025-07-29T21:33:53.252Z","title":"Dry"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-07-29T21:34:31.103Z"}
+{"level":"info","message":"MongoDB Connected: ac-bihmudd-shard-00-01.ds36kym.mongodb.net","timestamp":"2025-07-29T21:34:32.188Z"}
+{"completed":false,"description":" Dry","level":"info","message":"Todo updated","timestamp":"2025-07-29T21:34:44.106Z","title":"Dry"}
+{"level":"info","message":"Todo Update Failed: Validation problems","timestamp":"2025-07-29T21:34:51.767Z"}
+{"completed":false,"description":" Dry","level":"info","message":"Todo updated","timestamp":"2025-07-29T21:34:59.342Z","title":"Dry12"}
+{"level":"info","message":"Todo Update Failed: Validation problems","timestamp":"2025-07-29T21:35:44.124Z"}
+{"completed":true,"description":" Dry","level":"info","message":"Todo updated","timestamp":"2025-07-29T21:36:47.330Z","title":"Dry12"}
+{"level":"info","message":"Todo Update Failed: Validation problems","timestamp":"2025-07-29T21:36:53.700Z"}
+{"level":"info","message":"Todo Deleted: 688935fda967510595c72af0","timestamp":"2025-07-29T21:37:39.773Z"}
+{"level":"info","message":"Todo Update Failed: Validation problems","timestamp":"2025-07-29T21:37:50.815Z"}
+{"completed":true,"description":" Dry rtgertert","level":"info","message":"Todo updated","timestamp":"2025-07-29T21:38:03.236Z","title":"Dry12"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-07-29T23:29:53.478Z"}
+{"level":"info","message":"MongoDB Connected: ac-bihmudd-shard-00-00.ds36kym.mongodb.net","timestamp":"2025-07-29T23:29:54.915Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-07-29T23:44:40.261Z"}
+{"level":"info","message":"MongoDB Connected: ac-bihmudd-shard-00-01.ds36kym.mongodb.net","timestamp":"2025-07-29T23:44:41.547Z"}
+{"level":"info","message":"Todo Update Failed: Validation problems","timestamp":"2025-07-29T23:44:54.069Z"}
+{"level":"info","message":"Todo Update Failed: Validation problems","timestamp":"2025-07-29T23:57:38.752Z"}
+{"level":"info","message":"Todo Update Failed: Validation problems","timestamp":"2025-07-29T23:58:08.733Z"}
+{"level":"info","message":"GET /api/todo/6887bae591cccd95dd0034de","timestamp":"2025-07-29T23:58:25.640Z"}
+{"error":"MongoServerSelectionError: connection <monitor> to 89.195.118.138:27017 closed\n    at Topology.selectServer (D:\\Learning\\MERN Stack\\ProductsMernApp\\node_modules\\mongodb\\lib\\sdam\\topology.js:326:38)\n    at runNextTicks (node:internal/process/task_queues:60:5)\n    at listOnTimeout (node:internal/timers:540:9)\n    at process.processTimers (node:internal/timers:514:7)\n    at async tryOperation (D:\\Learning\\MERN Stack\\ProductsMernApp\\node_modules\\mongodb\\lib\\operations\\execute_operation.js:192:22)\n    at async executeOperation (D:\\Learning\\MERN Stack\\ProductsMernApp\\node_modules\\mongodb\\lib\\operations\\execute_operation.js:75:16)\n    at async FindCursor._initialize (D:\\Learning\\MERN Stack\\ProductsMernApp\\node_modules\\mongodb\\lib\\cursor\\find_cursor.js:61:26)\n    at async FindCursor.cursorInit (D:\\Learning\\MERN Stack\\ProductsMernApp\\node_modules\\mongodb\\lib\\cursor\\abstract_cursor.js:633:27)\n    at async FindCursor.fetchBatch (D:\\Learning\\MERN Stack\\ProductsMernApp\\node_modules\\mongodb\\lib\\cursor\\abstract_cursor.js:667:13)\n    at async FindCursor.next (D:\\Learning\\MERN Stack\\ProductsMernApp\\node_modules\\mongodb\\lib\\cursor\\abstract_cursor.js:347:17)","level":"error","message":"Error fetching Todo","timestamp":"2025-07-30T00:14:27.542Z"}
+{"level":"info","message":"Todo created","timestamp":"2025-07-30T11:29:04.630Z","todo":{"__v":0,"_id":"688a020065379c8fac491a48","completed":false,"createdAt":"2025-07-30T11:29:04.491Z","description":"Mutton Pulao on the menu ","title":"Cooking vegies","updatedAt":"2025-07-30T11:29:04.491Z"}}
+{"level":"info","message":"Todo created","timestamp":"2025-07-30T11:32:26.471Z","todo":{"__v":0,"_id":"688a02ca65379c8fac491a4e","completed":false,"createdAt":"2025-07-30T11:32:26.383Z","description":"yummy","title":"cooking beef nihari","updatedAt":"2025-07-30T11:32:26.383Z"}}
+{"level":"info","message":"Todo Update Failed: Validation problems","timestamp":"2025-07-30T11:32:35.032Z"}
+{"level":"info","message":"Todo Update Failed: Validation problems","timestamp":"2025-07-30T11:33:33.569Z"}
+{"level":"info","message":"Todo Update Failed: Validation problems","timestamp":"2025-07-30T11:33:46.951Z"}
+{"level":"info","message":"Todo Update Failed: Validation problems","timestamp":"2025-07-30T14:26:47.761Z"}
+{"level":"info","message":"Todo Update Failed: Validation problems","timestamp":"2025-07-30T14:26:48.998Z"}
+{"level":"info","message":"Todo Update Failed: Validation problems","timestamp":"2025-07-30T14:26:51.903Z"}
+{"level":"info","message":"Todo Update Failed: Validation problems","timestamp":"2025-07-30T14:26:52.337Z"}
+{"level":"info","message":"Todo Update Failed: Validation problems","timestamp":"2025-07-30T14:40:20.233Z"}
+{"level":"info","message":"Todo Update Failed: Validation problems","timestamp":"2025-07-30T15:08:43.963Z"}
+{"level":"info","message":"Todo Update Failed: Validation problems","timestamp":"2025-07-30T15:30:41.747Z"}
+{"level":"info","message":"Todo Update Failed: Validation problems","timestamp":"2025-07-30T15:30:41.751Z"}
+{"level":"info","message":"Todo Update Failed: Validation problems","timestamp":"2025-07-30T15:30:42.411Z"}
+{"level":"info","message":"Todo Update Failed: Validation problems","timestamp":"2025-07-30T15:30:48.394Z"}
+{"level":"info","message":"Todo Update Failed: Validation problems","timestamp":"2025-07-30T15:30:49.134Z"}
+{"level":"info","message":"Todo created","timestamp":"2025-07-30T15:31:19.284Z","todo":{"__v":0,"_id":"688a3ac765379c8fac491a81","completed":true,"createdAt":"2025-07-30T15:31:19.178Z","title":"new test","updatedAt":"2025-07-30T15:31:19.178Z"}}
+{"level":"info","message":"Todo created","timestamp":"2025-07-30T15:33:04.830Z","todo":{"__v":0,"_id":"688a3b3065379c8fac491a84","completed":true,"createdAt":"2025-07-30T15:33:04.730Z","description":"rerew","title":"ererk","updatedAt":"2025-07-30T15:33:04.730Z"}}
+{"level":"info","message":"Todo Update Failed: Validation problems","timestamp":"2025-07-30T15:33:11.565Z"}
+{"level":"info","message":"Todo Update Failed: Validation problems","timestamp":"2025-07-30T15:33:17.287Z"}
+{"level":"info","message":"Todo Update Failed: Validation problems","timestamp":"2025-07-30T15:33:38.600Z"}
+{"level":"info","message":"Todo created","timestamp":"2025-07-30T15:35:39.985Z","todo":{"__v":0,"_id":"688a3bcb65379c8fac491a87","completed":false,"createdAt":"2025-07-30T15:35:39.851Z","title":"Despite the rain, the curious cat wandered through the tall grass, chasing fluttering butterflies while children laughed nearby, unaware of the quiet magic unfolding in the summer air.","updatedAt":"2025-07-30T15:35:39.851Z"}}
+{"level":"info","message":"Todo Update Failed: Validation problems","timestamp":"2025-07-30T15:36:01.048Z"}
+{"level":"info","message":"Todo Update Failed: Validation problems","timestamp":"2025-07-30T15:36:40.158Z"}
+{"level":"info","message":"POST /api/todo/6887bae591cccd95dd0034de","timestamp":"2025-07-30T15:37:52.056Z"}
+{"level":"info","message":"Todo Update Failed: Validation problems","timestamp":"2025-07-30T15:38:05.299Z"}
+{"level":"info","message":"Todo Update Failed: Validation problems","timestamp":"2025-07-30T15:38:36.599Z"}
+{"level":"info","message":"Todo Update Failed: Validation problems","timestamp":"2025-07-30T15:38:58.281Z"}
+{"level":"info","message":"Todo Update Failed: Validation problems","timestamp":"2025-07-30T15:39:00.142Z"}
+{"level":"info","message":"Todo Update Failed: Validation problems","timestamp":"2025-07-30T15:39:10.952Z"}
+{"level":"info","message":"Todo Update Failed: Validation problems","timestamp":"2025-07-30T15:44:55.575Z"}
+{"level":"info","message":"Todo Update Failed: Validation problems","timestamp":"2025-07-30T15:45:52.080Z"}
+{"level":"info","message":"Todo Update Failed: Validation problems","timestamp":"2025-07-30T15:45:59.131Z"}
+{"level":"info","message":"Todo Update Failed: Validation problems","timestamp":"2025-07-30T15:46:58.903Z"}
+{"level":"info","message":"Todo created","timestamp":"2025-07-30T15:47:30.060Z","todo":{"__v":0,"_id":"688a3e9165379c8fac491a8a","completed":false,"createdAt":"2025-07-30T15:47:29.892Z","description":"Mutton Pulao on the menu ","title":"Despite the rain, the curious cat wandered through the tall grass, chasing fluttering butterflies while children laughed nearby, unaware of the quiet magic unfolding in the summer air.eerttrtrrt","updatedAt":"2025-07-30T15:47:29.892Z"}}
+{"error":"ValidationError: Todo validation failed: title: Path `title` (`Despite the rain, the curious cat wandered through the tall grass, chasing fluttering butterflies while children laughed nearby, unaware of the quiet magic unfolding in the summer air.eerttrtrrt Despite the rain, the curious cat wandered through the tall grass, chasing fluttering butterflies while children laughed nearby, unaware of the quiet magic unfolding in the summer air.eerttrtrrt`) is longer than the maximum allowed length (200).\n    at Document.invalidate (D:\\Learning\\MERN Stack\\ProductsMernApp\\node_modules\\mongoose\\lib\\document.js:3354:32)\n    at D:\\Learning\\MERN Stack\\ProductsMernApp\\node_modules\\mongoose\\lib\\document.js:3115:17\n    at D:\\Learning\\MERN Stack\\ProductsMernApp\\node_modules\\mongoose\\lib\\schemaType.js:1410:9\n    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)","level":"error","message":"Error creating Todo","timestamp":"2025-07-30T15:47:58.681Z"}
+{"level":"info","message":"Todo created","timestamp":"2025-07-30T15:48:42.815Z","todo":{"__v":0,"_id":"688a3eda65379c8fac491a8d","completed":false,"createdAt":"2025-07-30T15:48:42.654Z","description":"Mutton Pulao on the menu ","title":"Despite the rain, the curious cat wandered through the tall grass, chasing fluttering butterflies while children laughed nearby, unaware of the quiet magic unfolding in the summer air.","updatedAt":"2025-07-30T15:48:42.654Z"}}
+{"error":"ValidationError: Todo validation failed: title: Path `title` (`Despite the rain, the curious cat wandered through the tall grass, chasing fluttering butterflies while children laughed nearby, unaware of the quiet magic unfolding in the summer air. Despite the rain, the curious cat wandered through the tall grass, chasing fluttering butterflies while children laughed nearby, unaware of the quiet magic unfolding in the summer air.eerttrtrrt`) is longer than the maximum allowed length (200).\n    at Document.invalidate (D:\\Learning\\MERN Stack\\ProductsMernApp\\node_modules\\mongoose\\lib\\document.js:3354:32)\n    at D:\\Learning\\MERN Stack\\ProductsMernApp\\node_modules\\mongoose\\lib\\document.js:3115:17\n    at D:\\Learning\\MERN Stack\\ProductsMernApp\\node_modules\\mongoose\\lib\\schemaType.js:1410:9\n    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)","level":"error","message":"Error creating Todo","timestamp":"2025-07-30T15:49:14.071Z"}
+{"error":"ValidationError: Todo validation failed: title: Path `title` (`Despite the rain, the curious cat wandered through the tall grass, chasing fluttering butterflies while children laughed nearby, unaware of the quiet magic unfolding in the summer air. Despite the rain, the curious cat wandered through the tall grass, chasing fluttering butterflies while children laughed nearby, unaware of the quiet magic unfolding in the summer air.eerttrtrrt`) is longer than the maximum allowed length (200).\n    at Document.invalidate (D:\\Learning\\MERN Stack\\ProductsMernApp\\node_modules\\mongoose\\lib\\document.js:3354:32)\n    at D:\\Learning\\MERN Stack\\ProductsMernApp\\node_modules\\mongoose\\lib\\document.js:3115:17\n    at D:\\Learning\\MERN Stack\\ProductsMernApp\\node_modules\\mongoose\\lib\\schemaType.js:1410:9\n    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)","level":"error","message":"Error creating Todo","timestamp":"2025-07-30T15:50:21.880Z"}
+{"level":"info","message":"Todo created","timestamp":"2025-07-30T15:52:07.222Z","todo":{"__v":0,"_id":"688a3fa765379c8fac491a93","completed":true,"createdAt":"2025-07-30T15:52:07.051Z","title":"Despite the rain, the curious cat wandered through the tall grass, chasing fluttering butterflies while children laughed nearby, unaware of the quiet magic unfolding in the summer air.Despite the rain","updatedAt":"2025-07-30T15:52:07.051Z"}}
+{"error":"ValidationError: Todo validation failed: title: Path `title` (`Despite the rain, the curious cat wandered through the tall grass, chasing fluttering butterflies while children laughed nearby, unaware of the quiet magic unfolding in the summer air. Despite the rain, the curious cat wandered through the tall grass, chasing fluttering butterflies while children laughed nearby, unaware of the quiet magic unfolding in the summer air.eerttrtrrt`) is longer than the maximum allowed length (200).\n    at Document.invalidate (D:\\Learning\\MERN Stack\\ProductsMernApp\\node_modules\\mongoose\\lib\\document.js:3354:32)\n    at D:\\Learning\\MERN Stack\\ProductsMernApp\\node_modules\\mongoose\\lib\\document.js:3115:17\n    at D:\\Learning\\MERN Stack\\ProductsMernApp\\node_modules\\mongoose\\lib\\schemaType.js:1410:9\n    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)","level":"error","message":"Error creating Todo","timestamp":"2025-07-30T15:56:28.707Z"}
+{"error":"ValidationError: Todo validation failed: title: Path `title` (`Despite the rain, the curious cat wandered through the tall grass, chasing fluttering butterflies while children laughed nearby, unaware of the quiet magic unfolding in the summer air. Despite the rain, the curious cat wandered through the tall grass, chasing fluttering butterflies while children laughed nearby, unaware of the quiet magic unfolding in the summer air.eerttrtrrt`) is longer than the maximum allowed length (200).\n    at Document.invalidate (D:\\Learning\\MERN Stack\\ProductsMernApp\\node_modules\\mongoose\\lib\\document.js:3354:32)\n    at D:\\Learning\\MERN Stack\\ProductsMernApp\\node_modules\\mongoose\\lib\\document.js:3115:17\n    at D:\\Learning\\MERN Stack\\ProductsMernApp\\node_modules\\mongoose\\lib\\schemaType.js:1410:9\n    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)","level":"error","message":"Error creating Todo","timestamp":"2025-07-30T15:57:27.799Z"}
+{"level":"info","message":"Todo Deleted: 688a3fa765379c8fac491a93","timestamp":"2025-07-30T16:00:15.375Z"}
+{"level":"info","message":"Todo Deleted: 688a3eda65379c8fac491a8d","timestamp":"2025-07-30T16:00:19.784Z"}
+{"level":"info","message":"Todo Deleted: 688a3bcb65379c8fac491a87","timestamp":"2025-07-30T16:00:24.451Z"}
+{"level":"info","message":"Todo Update Failed: Validation problems","timestamp":"2025-07-30T16:07:10.412Z"}
+{"level":"info","message":"Todo Update Failed: Validation problems","timestamp":"2025-07-30T16:07:11.131Z"}
