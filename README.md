@@ -26,9 +26,47 @@ dotenv for environment variables
 
 <----------Database:---------->
 MongoDB
+====>> Schema
+TodoSchema = new mongoose.Schema(
+{
+     title: {
+      type: String,
+      required: true,
+      maxlength: 200,
+    },
+    description: {
+      type: String,
+    },
+    completed: {
+      type: Boolean,
+      default: false,
+    }
+    
+},
+{
+    timestamps:true
+}
+);
 
 <----------Logging:---------->
 Winston
+Logging Configuration
+Logger Middleware:
+
+Logging handled by winston or custom logger using middleware/Logger.js.
+File can be found at : logs/combined.log
+
+Log Types:
+
+info: Successful actions (e.g. creation, update)
+warn: Validation or expected issues (e.g. invalid ID, title too long)
+error: Server/internal issues (e.g. DB connection issues)
+
+Examples:
+logger.info('Todo created', { todo });
+logger.warn('Todo Deletion Failed: Invalid ID');
+logger.error('Error fetching Todo', { error: error.stack });
+Logs can be configured to store in files or output to console via Winston transport configuration.
 
 /********************************  Project Structure ********************************/
 
@@ -95,6 +133,12 @@ The React application will be available at http://localhost:5173 (or another por
 
 The backend exposes the following RESTful API endpoints for managing todos.
 
-| Method | Endpoint | Description | |--------|------------------|--------------------------| | GET | /api/Todo | Retrieve all todos. | | POST | /api/Todo | Create a new todo. | | PUT | /api/Todo/:id | Update an existing todo. | | DELETE | /api/Todo/:id | Delete a todo. |
+| Method | Endpoint | Description |
+| GET | /api/Todo | Retrieve all todos. |
+| POST | /api/Todo | Create a new todo. | 
+| PUT | /api/Todo/:id | Update an existing todo. |
+| DELETE | /api/Todo/:id | Delete a todo. |
+
+
 
 Note: The backend also includes skeleton routes and controllers for a Product model, but they are not currently utilized by the frontend application. (Created for inital learning, Ignore them!)
