@@ -1,7 +1,7 @@
-// src/components/TodoList.jsx
 import React, { useState } from 'react';
 import { Table, Button, Space, Popconfirm, Tag, Switch } from 'antd';
 import { EditOutlined, DeleteOutlined } from '@ant-design/icons';
+import '../styles/Dashboard.css';
 
 const TodoList = ({ todos, onEdit, onDelete, onToggle }) => {
   const safeData = Array.isArray(todos) ? todos : [];
@@ -43,18 +43,22 @@ const TodoList = ({ todos, onEdit, onDelete, onToggle }) => {
   ];
 
   return (
-    <Table
-      rowKey="_id"
-      columns={columns}
-      dataSource={safeData}
-      pagination={{
-        current: currentPage,
-        pageSize,
-        onChange: (page) => setCurrentPage(page),
-        showSizeChanger: false,
-        showQuickJumper: true,
-      }}
-    />
+    <div style={{ overflowX: 'auto', paddingBottom: 20 }}>
+      <Table
+        rowKey="_id"
+        columns={columns}
+        dataSource={safeData}
+        pagination={{
+          current: currentPage,
+          pageSize,
+          onChange: (page) => setCurrentPage(page),
+          showSizeChanger: false,
+          showQuickJumper: false,
+          position: ['bottomCenter'],
+          className: 'custom-pagination',
+        }}
+      />
+    </div>
   );
 };
 

@@ -69,27 +69,36 @@ export const DeleteTodo = async (req, res) => {
 };
 
 
-export const UpdateTodo = async(req, res)=>{
-    const {id} = req.params;
-    const todo = req.body;
-     if(!mongoose.Types.ObjectId.isValid(id))
-    {
-         logger.warn('Todo Update Failed: Invalid ID');
-        res.status(404).json({success:false,message:"Invalid Todo Id"});
+export const UpdateTodo = async (req, res) => {
+  const { id } = req.params;
+  const updates = req.body;
+
+  // Check if ID is valid
+  if (!mongoose.Types.ObjectId.isValid(id)) {
+    logger.warn('Todo Update Failed: Invalid ID');
+    return res.status(404).json({ success: false, message: "Invalid Todo Id" });
+  }
+
+  try {
+    // Only validate title if it's being updated
+    if (updates.title !== undefined) {
+      if (!updates.title || updates.title.length > 200) {
+        logger.info('Todo Update Failed: Validation problems with title');
+        return res.status(400).json({
+          success: false,
+          message: "Title is required and must be at most 200 characters long!"
+        });
+      }
     }
-try {
-   
-    if (!todo.title || todo.title.length > 200 ){
-     logger.info('Todo Update Failed: Validation problems');
-   return res.status(400).json({success: false,message: "Title is required and must be at most 200 characters long!"});}
 
-    const updateTodo = await Todo.findByIdAndUpdate(id,todo,{new: true});
-      logger.info('Todo updated', todo);
-    res.status(200).json({success:true,data:updateTodo});
+    const updatedTodo = await Todo.findByIdAndUpdate(id, updates, { new: true });
+    
+    logger.info('Todo updated', updates);
+    res.status(200).json({ success: true, data: updatedTodo });
 
-} catch (error) {
-     console.error("Error in Update Todo:" + error.message);
-      logger.error('Error updating Todo', { error: error.stack });
-    res.status(500).json({success: false, message: "Server Error"});
-}
-}
+  } catch (error) {
+    console.error("Error in Update Todo:", error.message);
+    logger.error('Error updating Todo', { error: error.stack });
+    res.status(500).json({ success: false, message: "Server Error" });
+  }
+};

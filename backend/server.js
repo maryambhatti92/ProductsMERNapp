@@ -2,7 +2,7 @@ import express from 'express';
 import cors from 'cors';
 import dotenv from 'dotenv';
 import { connectDb } from './config/db.js';
-import Productroutes from "./route/Product.route.js";
+//import Productroutes from "./route/Product.route.js";
 import TodoRoutes from "./route/Todo.route.js";
 import { logger, requestLogger } from './middleware/Logger.js';
 

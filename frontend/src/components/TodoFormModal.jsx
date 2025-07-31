@@ -1,5 +1,5 @@
 import React, { useEffect } from 'react';
-import { Modal, Form, Input, Checkbox } from 'antd';
+import { Modal, Form, Input, Checkbox, message } from 'antd';
 
 const TodoFormModal = ({ visible, onCancel, onSubmit, initialValues }) => {
   const [form] = Form.useForm();
@@ -10,21 +10,30 @@ const TodoFormModal = ({ visible, onCancel, onSubmit, initialValues }) => {
     }
   }, [visible, initialValues, form]);
 
-  // Inside TodoFormModal.jsx
+  const handleOk = async () => {
+    try {
+      const values = await form.validateFields();
+      if (values.title.length > 200) {
+       
+        message.error('Title must not exceed 200 characters.');
+        return;
+      }
 
-const handleOk = async () => {
-  try {
-    const values = await form.validateFields();  // this returns the form values
-    onSubmit(values);  // 🔥 THIS must call the prop passed from Dashboard
-    form.resetFields();
-  } catch (error) {
-    // Validation errors are handled by AntD
-  }
-};
-
+      onSubmit(values);
+      message.success(initialValues ? 'Todo updated successfully!' : 'Todo added successfully!');
+      form.resetFields();
+    } catch (errorInfo) {
+      // This catches only if validation fails
+      const titleError = errorInfo?.errorFields?.find((field) => field.name[0] === 'title');
+      if (titleError) {
+        message.error(titleError.errors[0]);
+      } else {
+        message.error('Please fix form errors before submitting.');
+      }
+    }
+  };
 
   return (
-    // Modal is rendered only when visible = true
     <Modal
       title={initialValues ? 'Edit Todo' : 'Add Todo'}
       open={visible}
@@ -35,15 +44,20 @@ const handleOk = async () => {
       onOk={handleOk}
       destroyOnHidden
     >
-      {/* Form only exists in the DOM when visible is true */}
       {visible && (
-        <Form form={form} layout="vertical">
+        <Form
+          form={form}
+          layout="vertical"
+        >
           <Form.Item
             name="title"
             label="Title"
-            rules={[{ required: true, message: 'Title is required' }]}
+            rules={[
+              { required: true, message: 'Title is required' },
+              { max: 200, message: 'Title cannot exceed 200 characters' },
+            ]}
           >
-            <Input maxLength={200} />
+            <Input  />
           </Form.Item>
 
           <Form.Item name="description" label="Description">
